@@ -42,7 +42,6 @@
     <li>React</a></li>
     <li>HTML</a></li>
     <li>CSS</a></li>
-    <li>Webpack</a></li>
   </ul>
 </details>
 
@@ -50,7 +49,6 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **Web pack deployed**
 - **React App Created**
 - **Rect App Running**
 
