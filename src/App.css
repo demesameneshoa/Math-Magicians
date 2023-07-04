@@ -1,39 +1,61 @@
-.App {
-  text-align: center;
-}
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+body {
+  height: 100vh;
+  background: #ddd;
   display: flex;
-  flex-direction: column;
   align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
+  font-family: 'Roboto', sans-serif;
+}
+
+.App {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  display: flex;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.Display {
+  height: 4rem;
+  width: 100%;
+  background-color: gray;
   color: white;
+  display: flex;
+  font-size: larger;
+  font-weight: bold;
+  justify-content: flex-end;
+  align-items: center;
+  padding: 0;
+  margin: 0;
+  border-radius: 1px;
 }
 
-.App-link {
-  color: #61dafb;
+.ButtonPanel {
+  display: flex;
+  flex-direction: column;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
+.button {
+  width: 70px;
+  height: 70px;
+}
 
-  to {
-    transform: rotate(360deg);
-  }
+.operation-button {
+  background: rgb(230, 164, 43);
+}
+
+.LastRow {
+  display: grid;
+  grid-template-columns: 2fr 1fr 1fr;
+}
+
+.LastRow button {
+  width: 100%;
+}
+
+.op button {
+  background-color: rebeccapurple;
 }

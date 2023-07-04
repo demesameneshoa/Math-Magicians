@@ -42,6 +42,7 @@
     <li>React</a></li>
     <li>HTML</a></li>
     <li>CSS</a></li>
+    <li>JS</a></li>
   </ul>
 </details>
 
@@ -51,6 +52,8 @@
 
 - **React App Created**
 - **Rect App Running**
+- **Calculator UI Created**
+- **Rect Components Added**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -118,9 +121,8 @@ npm start
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **Deploy React Components**
 - [ ] **Manipulate Content Using React**
-- [ ] **Create Calculator**
+- [ ] **Manipulate Events**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
