@@ -50,7 +50,6 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **Web pack deployed**
 - **React App Created**
 - **Rect App Running**
 - **Calculator UI Created**
