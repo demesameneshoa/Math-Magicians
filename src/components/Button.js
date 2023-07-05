@@ -1,10 +1,10 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 
-const Button = ({ name, operation }) => {
+const Button = ({ name, operation, clickHandler }) => {
   const className = operation ? 'button operation-button' : 'button';
   return (
-    <button type="button" className={className}>
+    <button onClick={() => clickHandler(name)} type="button" className={className}>
       {name}
     </button>
   );
@@ -13,6 +13,7 @@ const Button = ({ name, operation }) => {
 Button.propTypes = {
   name: PropTypes.string.isRequired,
   operation: PropTypes.bool,
+  clickHandler: PropTypes.isRequired,
 };
 
 Button.defaultProps = {
