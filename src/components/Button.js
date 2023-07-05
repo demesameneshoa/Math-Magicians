@@ -13,7 +13,7 @@ const Button = ({ name, operation, clickHandler }) => {
 Button.propTypes = {
   name: PropTypes.string.isRequired,
   operation: PropTypes.bool,
-  clickHandler: PropTypes.isRequired,
+  clickHandler: PropTypes.func.isRequired,
 };
 
 Button.defaultProps = {
