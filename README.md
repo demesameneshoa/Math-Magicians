@@ -54,10 +54,11 @@
 - **Rect App Running**
 - **Calculator UI Created**
 - **Rect Components Added**
+- **Add Calculator Event**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- Screen Shot -->
+<img src="./appscreenshot.png" alt="logo" width="300"  height="auto" />
 
 ## Screen Shot <a name="screen-shot"></a>
 
@@ -121,8 +122,8 @@ npm start
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **Manipulate Content Using React**
-- [ ] **Manipulate Events**
+- [ ] **Improve UI**
+- [ ] **Add Quote API**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
