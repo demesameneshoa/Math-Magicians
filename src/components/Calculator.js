@@ -14,7 +14,6 @@ function App() {
     setOperation(result.operation);
   };
   return (
-
     <div className="App">
       <h1>Math-Magicians</h1>
       <Display result={next || total || '0'} />
