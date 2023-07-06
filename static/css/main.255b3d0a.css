@@ -1,2 +1,0 @@
-body{background:#ddd;font-family:Roboto,sans-serif;height:100vh}.App,body{align-items:center;display:flex;justify-content:center;margin:0}.App{box-sizing:border-box;flex-direction:column;padding:0;text-align:center}.Display{align-items:center;background-color:gray;border-radius:1px;color:#fff;display:flex;height:4rem;justify-content:flex-end;margin:0;padding:0;width:100%}.ButtonPanel{display:grid;grid-template-rows:repeat(4,1fr)}.Button{height:70px;width:70px}.LastRow{color:red}
-/*# sourceMappingURL=main.255b3d0a.css.map*/
