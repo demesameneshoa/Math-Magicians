@@ -55,6 +55,8 @@
 - **Calculator UI Created**
 - **Rect Components Added**
 - **Add Calculator Event**
+- **Quote Component Added**
+- **Quotes Fetched and Displayed from External API**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -150,6 +152,7 @@ If you like this project please show us support by givintg it a star.
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 I would like to thank my colleagues at Microverse for their support during the project.
+Special thanks to <a href="https://api-ninjas.com/">API Ninjas</a> for availing the API to consume
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

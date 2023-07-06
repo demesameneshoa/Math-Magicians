@@ -10,12 +10,22 @@ body {
 .App {
   margin: 0;
   padding: 0;
+  width: max-content;
   box-sizing: border-box;
   display: flex;
   text-align: center;
   align-items: center;
   justify-content: center;
   flex-direction: column;
+}
+
+.quote-container {
+  max-width: 22rem;
+  margin-top: 1rem;
+}
+
+.quote {
+  font-style: oblique;
 }
 
 .Display {
