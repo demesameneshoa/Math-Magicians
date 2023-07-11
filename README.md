@@ -50,14 +50,15 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **Web pack deployed**
 - **React App Created**
 - **Rect App Running**
-- **Calculator UI Created**
+- **Full Website UI Created**
 - **Rect Components Added**
 - **Add Calculator Event**
 - **Quote Component Added**
 - **Quotes Fetched and Displayed from External API**
+- **React Router Applied**
+- **React Styling Applied**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -125,8 +126,7 @@ npm start
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **Improve UI**
-- [ ] **Add Quote API**
+- [ ] **Improve UI for Mobile**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
