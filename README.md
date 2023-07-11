@@ -62,17 +62,15 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<img src="./appscreenshot.png" alt="logo" width="300"  height="auto" />
-
 ## Screen Shot <a name="screen-shot"></a>
 
-On Progress
+<img src="./appscreenshot.png" alt="logo" width="300"  height="auto" />
 
 <!-- LIVE DEMO -->
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-Coming Soon
+<p>For Live Demo Click <a href="https://demesameneshoa.github.io/Math-Magicians/"> Here</a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
