@@ -59,10 +59,12 @@
 - **Quotes Fetched and Displayed from External API**
 - **React Router Applied**
 - **React Styling Applied**
+- **Tested Logical Functions** -**Tested React Components**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Screen Shot <a name="screen-shot"></a>
+
 <img src="./appscreenshot.png" alt="logo" width="300"  height="auto" />
 
 <!-- LIVE DEMO -->
