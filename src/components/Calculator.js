@@ -16,7 +16,7 @@ function App() {
   };
 
   return (
-    <div className={styles.wrapper}>
+    <div className={styles.wrapper} data-testid="header">
       <div>
         <h2>Let&apos;s Do Some Math</h2>
       </div>

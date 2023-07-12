@@ -3,6 +3,7 @@
 exports[`Calculator component unit test Calculator Component Renders Properly  1`] = `
 <div
   className="wrapper"
+  data-testid="header"
 >
   <div>
     <h2>
