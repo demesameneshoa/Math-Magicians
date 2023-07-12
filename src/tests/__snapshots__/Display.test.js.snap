@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Display component unit test Display Component Renders Properly  1`] = `
+<div
+  className="Display"
+>
+  0
+</div>
+`;
