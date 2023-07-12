@@ -1,7 +1,7 @@
 function Home() {
   return (
     <div className="Home">
-      <h2>Welcom to our page</h2>
+      <h2>Welcome to our page</h2>
       <p>
         Lorem ipsum dolor sit amet. Ea fugit beatae eum velit natus qui nihil temporibus
         a voluptatem quae aut quae perspiciatis quo delectus sint. Et dolorem maxime non eligendi
