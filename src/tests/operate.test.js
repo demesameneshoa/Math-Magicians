@@ -10,11 +10,11 @@ describe('testing mathematical operations', () => {
   });
 
   test('multiplication test', () => {
-    expect(operate(5, 3, '*')).toBe('15');
+    expect(operate(5, 3, 'x')).toBe('15');
   });
 
   test('division test', () => {
-    expect(operate(20, 4, '/')).toBe('5');
+    expect(operate(20, 4, '÷')).toBe('5');
   });
 
   test('mod test', () => {
