@@ -6,11 +6,11 @@ import ButtonPanel from '../components/ButtonPanel';
 
 describe('Buttonpanel component unit test', () => {
   test('Button Panel Component Renders Properly ', () => {
-    const tree = renderer.create(<ButtonPanel />).toJSON();
+    const tree = renderer.create(<ButtonPanel clickHandler={() => {}} />).toJSON();
     expect(tree).toMatchSnapshot();
   });
   test('The Buttons In the Component are 19 ', () => {
-    render(<ButtonPanel />);
+    render(<ButtonPanel clickHandler={() => {}} />);
     expect(screen.getAllByRole('button').length).toBe(19);
   });
 });
