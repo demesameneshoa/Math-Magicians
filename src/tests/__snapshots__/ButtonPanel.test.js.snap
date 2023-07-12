@@ -1,6 +1,6 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`Calculator component unit test Calculator Component Renders Properly  1`] = `
+exports[`Buttonpanel component unit test Button Panel Component Renders Properly  1`] = `
 <div
   className="ButtonPanel"
 >
