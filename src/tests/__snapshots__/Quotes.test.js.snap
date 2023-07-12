@@ -12,3 +12,16 @@ exports[`Home component unit test Home Component Renders Properly  1`] = `
   />
 </div>
 `;
+
+exports[`Quote component unit test Quote Component Renders Properly  1`] = `
+<div
+  className="quotediv"
+>
+  <q
+    className="quote"
+  />
+  <p
+    className="p"
+  />
+</div>
+`;
