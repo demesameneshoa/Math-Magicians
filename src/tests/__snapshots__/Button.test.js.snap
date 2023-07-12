@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Button component unit test Button Component Renders Number Buttons Properly  1`] = `
+<button
+  className="button"
+  onClick={[Function]}
+  type="button"
+>
+  5
+</button>
+`;
+
+exports[`Button component unit test Button Component Renders Operation Buttons Properly 1`] = `
+<button
+  className="button operation-button"
+  onClick={[Function]}
+  type="button"
+>
+  +
+</button>
+`;
