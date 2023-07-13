@@ -71,7 +71,8 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-Click <a href="https://demesameneshoa.github.io/Math-Magicians/">Here </a>for a Live Demo!
+Click <a href="https://demesameneshoa.github.io/Math-Magicians/">Here </a>for a Live Demo on github!
+Click <a https://math-magicians-1577.onrender.com/Math-Magicians/quote">Here </a>for a Live Demo on render!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
